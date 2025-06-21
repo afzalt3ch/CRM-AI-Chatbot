@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Software Institution</title>
+  <link rel="stylesheet" href="../static/css/styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+  <style>
+    .message {
+      display: flex;
+      margin: 8px 0;
+      max-width: 80%;
+    }
+
+    .user-message {
+      justify-content: flex-end;
+    }
+
+    .bot-message {
+      justify-content: flex-start;
+    }
+
+    .message-content {
+      padding: 10px 14px;
+      border-radius: 20px;
+      background-color: #e5e7eb;
+      color: #111827;
+      font-size: 0.95rem;
+      max-width: 100%;
+      word-wrap: break-word;
+    }
+
+    .user-message .message-content {
+      background-color: #2563eb;
+      color: white;
+    }
+
+    .loading-dots span {
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      margin: 0 2px;
+      background-color: #9ca3af;
+      border-radius: 50%;
+      animation: bounce 1.4s infinite ease-in-out both;
+    }
+
+    .loading-dots span:nth-child(1) {
+      animation-delay: -0.32s;
+    }
+    .loading-dots span:nth-child(2) {
+      animation-delay: -0.16s;
+    }
+    .loading-dots span:nth-child(3) {
+      animation-delay: 0s;
+    }
+
+    @keyframes bounce {
+      0%, 80%, 100% {
+        transform: scale(0);
+      } 40% {
+        transform: scale(1);
+      }
+    }
+  </style>
+<body>
+  <!-- Navigation Bar -->
+  <header>
+    <nav class="navbar">
+      <div class="container">
+        <h1 class="logo">Software Institution</h1>
+        <ul class="nav-links">
+          <li><a href="#about">About</a></li>
+          <li><a href="#courses">Courses</a></li>
+          <li><a href="#careers">Careers</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#internships">Internships</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <h2>Empowering the Next Generation of Software Developers</h2>
+      <p>Explore our courses, boost your career, and get hands-on experience through internships and projects. At Software Institution, we believe in transforming passion into practical skills that shape the future.</p>
+    </div>
+  </section>
+
+  <!-- Main Content -->
+  <main class="container">
+    <section id="about" class="section box">
+      <h2>About Us</h2>
+      <p>We are committed to providing high-quality software training with practical exposure and real-world applications. Founded with a vision to bridge the gap between academic learning and industry demands, Software Institution has trained over 10,000 students globally. Our mission is to make tech education accessible, engaging, and impactful through well-designed curriculums, expert faculty, and real-time project work.</p>
+    </section>
+
+    <section id="courses" class="section box">
+      <h2>Courses</h2>
+      <p>Our courses are tailored to cater to both beginners and professionals seeking to upskill. Whether you're just starting out or aiming to specialize in a new domain, we have something for everyone:</p>
+      <ul class="course-list">
+        <li>Introduction to Programming</li>
+        <li>Full-Stack Web Development</li>
+        <li>Data Science and AI</li>
+        <li>Mobile App Development</li>
+        <li>Cloud Computing</li>
+        <li>Cybersecurity Essentials</li>
+        <li>DevOps & Agile Practices</li>
+      </ul>
+    </section>
+
+    <section id="careers" class="section box">
+      <h2>Careers</h2>
+      <p>We understand that landing a job is just as important as learning the skill. Our career support team works hand-in-hand with each student to ensure they are industry-ready. With resume building, mock interviews, and exclusive placement drives, we ensure our students step confidently into the professional world.</p>
+    </section>
+
+    <section id="services" class="section box">
+      <h2>Our Services</h2>
+      <p>Beyond courses, we provide a range of services designed to enhance your learning experience and prepare you for long-term success in the tech industry:</p>
+      <ul>
+        <li>1-on-1 Mentorship Programs</li>
+        <li>Live Industry Projects and Hackathons</li>
+        <li>Internship & Job Placement Support</li>
+        <li>Resume & Interview Readiness Workshops</li>
+        <li>Tech Community Access and Networking Events</li>
+      </ul>
+    </section>
+
+    <section id="internships" class="section box">
+      <h2>Internship Opportunities</h2>
+      <p>Our structured internship program allows students to apply classroom learning to real-world challenges. Partnering with top tech companies, we provide hands-on opportunities across domains like web development, AI/ML, cloud infrastructure, and more. Internships are curated to help you build a strong portfolio and gain valuable industry references.</p>
+    </section>
+
+    <section id="contact" class="section box">
+      <h2>Contact Us</h2>
+      <p>We’d love to hear from you! Whether you have questions about our programs, want to schedule a counseling session, or explore partnership opportunities, feel free to get in touch.</p>
+      <p>Email: <a href="mailto:contact@softwareinstitution.com">contact@softwareinstitution.com</a></p>
+      <p>Phone: <a href="tel:+1234567890">+1 234 567 890</a></p>
+      <p>Follow us on:
+        <a href="#">LinkedIn</a>,
+        <a href="#">Twitter</a>,
+        <a href="#">Instagram</a>
+      </p>
+    </section>
+  </main>
+
+  <!-- Chatbot Button -->
+  <button id="chatbot-btn" aria-label="Open chatbot">🤖 Chat with us</button>
+
+  <!-- Chatbot Container -->
+  <div id="chat-container" role="dialog" aria-labelledby="chat-header" aria-hidden="true">
+    <div id="chat-header">
+      <h3>AI Chatbot</h3>
+    </div>
+    <div id="chat-box" aria-live="polite"></div>
+    <div id="input-container">
+      <input type="text" id="user-input" placeholder="Type a message..." aria-label="Your message" />
+      <button id="send-btn">Send</button>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Software Institution. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Script -->
+  <script>
+    const chatContainer = document.getElementById('chat-container');
+    const chatbotBtn = document.getElementById('chatbot-btn');
+    const chatBox = document.getElementById('chat-box');
+    const userInput = document.getElementById('user-input');
+    const sendBtn = document.getElementById('send-btn');
+
+    chatbotBtn.addEventListener('click', function () {
+      chatContainer.style.display = chatContainer.style.display === 'none' ? 'block' : 'none';
+    });
+
+    function addUserMessage(message) {
+      const messageContainer = document.createElement('div');
+      messageContainer.classList.add('message', 'user-message');
+      const messageContent = document.createElement('div');
+      messageContent.classList.add('message-content');
+      messageContent.textContent = message;
+      messageContainer.appendChild(messageContent);
+      chatBox.appendChild(messageContainer);
+      chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    function addBotMessage(message) {
+      const messageContainer = document.createElement('div');
+      messageContainer.classList.add('message', 'bot-message');
+      const messageContent = document.createElement('div');
+      messageContent.classList.add('message-content');
+      messageContent.innerHTML = message;
+      messageContainer.appendChild(messageContent);
+      chatBox.appendChild(messageContainer);
+      chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    function addLoadingDots() {
+      const loadingContainer = document.createElement('div');
+      loadingContainer.classList.add('message', 'bot-message');
+      const dotsContainer = document.createElement('div');
+      dotsContainer.classList.add('loading-dots', 'message-content');
+      for (let i = 0; i < 3; i++) {
+        const dot = document.createElement('span');
+        dotsContainer.appendChild(dot);
+      }
+      loadingContainer.appendChild(dotsContainer);
+      chatBox.appendChild(loadingContainer);
+      chatBox.scrollTop = chatBox.scrollHeight;
+      return loadingContainer;
+    }
+
+    function sendMessage() {
+      const message = userInput.value.trim();
+      if (message === '') return;
+      addUserMessage(message);
+      userInput.value = '';
+      const loadingElement = addLoadingDots();
+      setTimeout(() => {
+        fetch('/get-response', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ message })
+        })
+          .then(response => response.json())
+          .then(data => {
+            chatBox.removeChild(loadingElement);
+            addBotMessage(data.response);
+          })
+          .catch(() => {
+            chatBox.removeChild(loadingElement);
+            addBotMessage('Oops! Something went wrong. Please try again later.');
+          });
+      }, 1500);
+    }
+
+    sendBtn.addEventListener('click', sendMessage);
+    userInput.addEventListener('keydown', function (event) {
+      if (event.key === 'Enter') sendMessage();
+    });
+  </script>
+
+</body>
+
+</html>

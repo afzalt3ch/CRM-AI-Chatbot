@@ -1,0 +1,1282 @@
+[
+  {
+    "input": "intent: course_info | entity: robotics",
+    "output": "Master the fundamentals of robotics, including hardware design, automation, and intelligent control systems."
+  },
+  {
+    "input": "intent: course_info | entity: robotics",
+    "output": "Learn how to build and program robots for industries like healthcare, manufacturing, and space exploration."
+  },
+  {
+    "input": "intent: course_info | entity: robotics",
+    "output": "Explore topics like sensor integration, robotic path planning, and machine learning for robots."
+  },
+  {
+    "input": "intent: course_info | entity: robotics",
+    "output": "Understand how robotics intersects with AI, IoT, and cloud technologies to create smart systems."
+  },
+  {
+    "input": "intent: course_info | entity: robotics",
+    "output": "Work on hands-on projects to develop autonomous robots capable of decision-making and real-time adaptations."
+  },
+  {
+    "input": "intent: admission_process | entity: robotics",
+    "output":"Enroll in the Robotics course through the Luminar Technolab website registration form."    
+  },
+  {
+    "input": "intent: admission_process | entity: robotics",
+    "output":"Submit documents and complete the fee payment to secure your spot."
+  },
+  {
+    "input": "intent: admission_process | entity: robotics",
+    "output":"The team will contact you with onboarding details after registration."
+  },
+  {
+    "input": "intent: admission_process | entity: robotics",
+    "output":"Admissions are handled online or at the training center."
+  },
+  {
+    "input": "intent: admission_process | entity: robotics",
+    "output":"You’ll receive an email confirmation after successful enrollment."
+  },
+  {
+    "input": "intent: batch_timing | entity: robotics",
+    "output": "Robotics classes are held from 10am to 12pm, Monday to Friday."
+  },
+  {
+    "input": "intent: batch_timing | entity: robotics",
+    "output": "You can join our weekday sessions scheduled from 10am to 12pm or evening slots from 6pm to 8pm."
+  },
+  {
+    "input": "intent: batch_timing | entity: robotics",
+    "output": "Live robotics sessions run Monday to Friday, typically between 10am to 12pm."
+  },
+  {
+    "input": "intent: batch_timing | entity: robotics",
+    "output": "Batch timings for robotics are flexible with options like 10am–12pm or 6pm–8pm, Monday through Friday."
+  },
+  {
+    "input": "intent: batch_timing | entity: robotics",
+    "output": "If you miss a class, recordings are available, and sessions are scheduled between 10am to 12pm on weekdays."
+  },
+  {
+    "input": "intent: contact_info | entity: robotics",
+    "output": "For course inquiries, use the contact form on the Luminar Technolab website."
+  },
+  {
+    "input": "intent: contact_info | entity: robotics",
+    "output":"You can also email or call the support team for more information."
+  },
+  {
+    "input": "intent: contact_info | entity: robotics",
+    "output":"Live chat is available for quick assistance on the course page."
+  },
+  {
+    "input": "intent: contact_info | entity: robotics",
+    "output":"Support is responsive during business hours and happy to help."
+  },
+  {
+    "input": "intent: contact_info | entity: robotics",
+    "output":"Visit the Contact Us section to speak to a course advisor."
+  },
+  {
+    "input": "intent: course_duration | entity: robotics",
+    "output": "The Robotics with AI & IoT course typically runs for 3 to 4 months."
+  },
+  {
+    "input": "intent: course_duration | entity: robotics",
+    "output":"It includes detailed modules in programming, hardware integration, and AI techniques."
+  },
+  {
+    "input": "intent: course_duration | entity: robotics",
+    "output":"Expect hands-on lab work, real-world robotics challenges, and project building."
+  },
+  {
+    "input": "intent: course_duration | entity: robotics",
+    "output":"The course duration allows time for both theory and practical application."
+  },
+  {
+    "input": "intent: course_duration | entity: robotics",
+    "output":"By the end of the program, you’ll have built functional robotics prototypes."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: robotics",
+    "output": "Contact Luminar directly for the latest fee structure and offers for the Robotics and AI course. The course fee is ₹45,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: robotics",
+    "output": "Installment options and discounts may be available for early applicants of the Robotics and AI course. The fee is ₹45,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: robotics",
+    "output": "The fee for the Robotics and AI course is ₹45,000 and includes training, materials, and robotics kits used during the course."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: robotics",
+    "output": "Ask about scholarships or promotions that may apply to your registration for the Robotics and AI course. The fee is ₹45,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: robotics",
+    "output": "Fee details for the Robotics and AI course can be confirmed by contacting the support team. The course fee is ₹45,000."
+  },
+  {
+    "input": "intent: learning_mode | entity: robotics",
+    "output": "The course is delivered in a blended mode—online theory and offline hardware sessions."
+  },
+  {
+    "input": "intent: learning_mode | entity: robotics",
+    "output": "You’ll access live online classes along with lab work at physical centers."
+  },
+  {
+    "input": "intent: learning_mode | entity: robotics",
+    "output": "All learners receive online study materials and toolkits for remote practice."
+  },
+  {
+    "input": "intent: learning_mode | entity: robotics",
+    "output": "Interactive Q&A and mentoring are available regardless of your mode of learning."
+  },
+  {
+    "input": "intent: learning_mode | entity: robotics",
+    "output": "Hands-on components are completed at designated lab sessions or via home kits."
+  },
+  {
+    "input": "intent: placement_support | entity: robotics",
+    "output": "Placement assistance is provided after course completion."
+  },
+  {
+    "input": "intent: placement_support | entity: robotics",
+    "output": "You’ll get support in resume building, project showcasing, and technical interviews."
+  },
+  {
+    "input": "intent: placement_support | entity: robotics",
+    "output": "Job opportunities are shared through Luminar’s hiring partner network."
+  },
+  {
+    "input": "intent: placement_support | entity: robotics",
+    "output": "Internships and real-world projects enhance your employability in robotics and IoT fields."
+  },
+  {
+    "input": "intent: placement_support | entity: robotics",
+    "output": "Mentorship continues beyond training to help you enter tech-driven careers."
+  },
+  {
+    "input": "intent: course_info | entity: testing",
+    "output": "This course covers manual testing fundamentals along with automation tools like Selenium, TestNG, Maven, and Jenkins."
+  },
+  {
+    "input": "intent: course_info | entity: testing",
+    "output": "You’ll learn SDLC, STLC, test case writing, bug reporting, and test management tools."
+  },
+  {
+    "input": "intent: course_info | entity: testing",
+    "output": "Automation frameworks like POM and data-driven testing are also included."
+  },
+  {
+    "input": "intent: course_info | entity: testing",
+    "output": "It’s suitable for beginners or those shifting to a QA career."
+  },
+  {
+    "input": "intent: course_info | entity: testing",
+    "output": "The course blends theory and practical testing with real-time scenarios."
+  },
+  {
+    "input": "intent: admission_process | entity: testing",
+    "output": "Admission is available through online registration on the official website."
+  },
+  {
+    "input": "intent: admission_process | entity: testing",
+    "output":"Submit the form and required documents, then complete the payment."
+  },
+  {
+    "input": "intent: admission_process | entity: testing",
+    "output":"You'll receive a confirmation email with course access instructions."
+  },
+  {
+    "input": "intent: admission_process | entity: testing",
+    "output":"Support is available for queries during the enrollment process."
+  },
+  {
+    "input": "intent: admission_process | entity: testing",
+    "output":"Admissions are processed on a rolling basis."
+  },
+  {
+    "input": "intent: batch_timing | entity: testing",
+    "output": "Software Testing classes are scheduled from 9am to 11am, Monday to Friday."
+  },
+  {
+    "input": "intent: batch_timing | entity: testing",
+    "output": "Flexible batches are available: Morning (9am–11am) or Evening (6pm–8pm), on both weekdays and weekends."
+  },
+  {
+    "input": "intent: batch_timing | entity: testing",
+    "output": "Live classes are held 3-5 times a week, typically from 9am to 11am. Recordings are also available."
+  },
+  {
+    "input": "intent: batch_timing | entity: testing",
+    "output": "Need a different time? You can shift your batch to either 9am–11am or 6pm–8pm slots with prior notice."
+  },
+  {
+    "input": "intent: batch_timing | entity: testing",
+    "output": "Sessions are available in multiple time zones. Common slots include 9am–11am IST and 6pm–8pm IST."
+  },
+  {
+    "input": "intent: contact_info | entity: testing",
+    "output": "You can contact the support team via phone, email, or website chat."
+  },
+  {
+    "input": "intent: contact_info | entity: testing",
+    "output":"Visit the official website’s Contact page for assistance."
+  },
+  {
+    "input": "intent: contact_info | entity: testing",
+    "output":"Support is available to help with enrollment, fees, and course queries."
+  },
+  {
+    "input": "intent: contact_info | entity: testing",
+    "output":"Live chat is also available during business hours."
+  },
+  {
+    "input": "intent: contact_info | entity: testing",
+    "output":"Advisors are responsive and ready to guide you."
+  },
+  {
+    "input": "intent: course_duration | entity: testing",
+    "output": "The software testing course duration is approximately 3.5 to 4 months."
+  },
+  {
+    "input": "intent: course_duration | entity: testing",
+    "output":"It includes both manual and automation testing modules."
+  },
+  {
+    "input": "intent: course_duration | entity: testing",
+    "output":"You’ll undergo more than 80–100 hours of practical and theory training."
+  },
+  {
+    "input": "intent: course_duration | entity: testing",
+    "output":"The course also includes assignments and project implementation."
+  },
+  {
+    "input": "intent: course_duration | entity: testing",
+    "output":"It is structured for step-by-step skill building and job readiness."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: testing",
+    "output": "Fee details for the Software Testing course are ₹30,000. For more information, contact Luminar Technolab directly."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: testing",
+    "output": "Installment and early bird discounts may apply for the Software Testing course. The fee is ₹30,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: testing",
+    "output": "Fees for the Software Testing course are ₹30,000, covering live sessions, materials, and placement assistance."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: testing",
+    "output": "Special pricing may be available for students or referrals for the Software Testing course. The course fee is ₹30,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: testing",
+    "output": "Ask the team about scholarship options if eligible for the Software Testing course. The fee is ₹30,000."
+  },
+  {
+    "input": "intent: learning_mode | entity: testing",
+    "output": "The course is available in online and offline formats."
+  },
+  {
+    "input": "intent: learning_mode | entity: testing",
+    "output":"You can join live instructor-led sessions or watch recordings."
+  },
+  {
+    "input": "intent: learning_mode | entity: testing",
+    "output":"Offline training is available at select centers, depending on location."
+  },
+  {
+    "input": "intent: learning_mode | entity: testing",
+    "output":"Course materials and tools are accessible via the LMS portal."
+  },
+  {
+    "input": "intent: learning_mode | entity: testing",
+    "output":"Interactive doubt-clearing and mentoring sessions are part of the learning journey."
+  },
+  {
+    "input": "intent: placement_support | entity: testing",
+    "output": "100% placement support is provided after course completion."
+  },
+  {
+    "input": "intent: placement_support | entity: testing",
+    "output":"The placement cell helps with resume prep, interview training, and job referrals."
+  },
+  {
+    "input": "intent: placement_support | entity: testing",
+    "output":"You'll be eligible for company drives and QA role openings."
+  },
+  {
+    "input": "intent: placement_support | entity: testing",
+    "output":"Internship assistance may be available based on performance."
+  },
+  {
+    "input": "intent: placement_support | entity: testing",
+    "output":"Support continues until successful job placement."
+  },
+  {
+    "input": "intent: course_info | entity: datascience",
+    "output": "The Data Science with Python course covers data analysis, visualization, machine learning, and deep learning."
+  },
+  {
+    "input": "intent: course_info | entity: datascience",
+    "output":"You’ll work with Python libraries like NumPy, Pandas, Matplotlib, Scikit-learn, and TensorFlow."
+  },
+  {
+    "input": "intent: course_info | entity: datascience",
+    "output":"The course is ideal for graduates and professionals looking to enter AI/ML fields."
+  },
+  {
+    "input": "intent: course_info | entity: datascience",
+    "output":"It includes real-time projects in domains such as healthcare, finance, and e-commerce."
+  },
+  {
+    "input": "intent: course_info | entity: datascience",
+    "output":"By the end, you'll be proficient in applying data science tools to solve business problems."
+  },
+  {
+    "input": "intent: admission_process | entity: datascience",
+    "output": "Register through the official website to join the Data Science course."
+  },
+  {
+    "input": "intent: admission_process | entity: datascience",
+    "output":"Submit the required documents and pay the fee to confirm your seat."
+  },
+  {
+    "input": "intent: admission_process | entity: datascience",
+    "output":"Get onboarding assistance and schedule details after successful registration."
+  },
+  {
+    "input": "intent: admission_process | entity: datascience",
+    "output":"Admissions are processed on a first-come, first-served basis."
+  },
+  {
+    "input": "intent: admission_process | entity: datascience",
+    "output":"Confirmation and access instructions will be shared via email."
+  },
+  {
+    "input": "intent: batch_timing | entity: datascience",
+    "output": "Data Science classes are scheduled from 10am to 12pm, Monday to Friday."
+  },
+  {
+    "input": "intent: batch_timing | entity: datascience",
+    "output": "You can choose between 10am–12pm, 2pm–4pm, or 7pm–9pm slots on weekdays or weekends."
+  },
+  {
+    "input": "intent: batch_timing | entity: datascience",
+    "output": "Live sessions are held 4–5 times a week with full access to recorded videos."
+  },
+  {
+    "input": "intent: batch_timing | entity: datascience",
+    "output": "Working professionals and students can opt for weekend or late evening batches."
+  },
+  {
+    "input": "intent: batch_timing | entity: datascience",
+    "output": "Batch switch is possible on request, with slots like 10am–12pm or 7pm–9pm available."
+  },
+  {
+    "input": "intent: contact_info | entity: datascience",
+    "output": "Reach out via Luminar's website contact form for Data Science queries."
+  },
+  {
+    "input": "intent: contact_info | entity: datascience",
+    "output": "Support is available through email and phone as listed on their website."
+  },
+  {
+    "input": "intent: contact_info | entity: datascience",
+    "output": "You can also use the website chat for quick responses."
+  },
+  {
+    "input": "intent: contact_info | entity: datascience",
+    "output": "Dedicated course advisors are available during business hours."
+  },
+  {
+    "input": "intent: contact_info | entity: datascience",
+    "output": "All inquiries are handled promptly by the support team."
+  },
+  {
+    "input": "intent: course_duration | entity: datascience",
+    "output": "The Data Science course spans approximately 5 to 6 months."
+  },
+  {
+    "input": "intent: course_duration | entity: datascience",
+    "output": "It includes theory, hands-on labs, and project work."
+  },
+  {
+    "input": "intent: course_duration | entity: datascience",
+    "output": "Over 100 hours of instructor-led training is provided."
+  },
+  {
+    "input": "intent: course_duration | entity: datascience",
+    "output": "Course duration allows time for portfolio-building and capstone projects."
+  },
+  {
+    "input": "intent: course_duration | entity: datascience",
+    "output": "This timeline includes assessments and placement preparation sessions."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: datascience",
+    "output": "Fee details for the Data Science course are available on request."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: datascience",
+    "output": "Payment plans and discounts may be available for the Data Science course."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: datascience",
+    "output": "The fee for the Data Science course includes training, projects, materials, and placement support."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: datascience",
+    "output": "Contact admissions for up-to-date pricing and installment options for the Data Science course."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: datascience",
+    "output": "Early bird offers and scholarships may apply to eligible students for the Data Science course."
+  },
+  {
+    "input": "intent: learning_mode | entity: datascience",
+    "output": "The course is offered in both online and offline learning modes."
+  },
+  {
+    "input": "intent: learning_mode | entity: datascience",
+    "output": "Students can attend live classes or view recorded sessions."
+  },
+  {
+    "input": "intent: learning_mode | entity: datascience",
+    "output": "All materials are hosted on an online platform for easy access."
+  },
+  {
+    "input": "intent: learning_mode | entity: datascience",
+    "output": "Online learners get the same mentorship and project guidance as in-person students."
+  },
+  {
+    "input": "intent: learning_mode | entity: datascience",
+    "output": "Learning is interactive with quizzes, assignments, and discussions."
+  },
+  {
+    "input": "intent: placement_support | entity: datascience",
+    "output": "100% placement support is provided after the course."
+  },
+  {
+    "input": "intent: placement_support | entity: datascience",
+    "output": "Career services include resume building, interview prep, and LinkedIn guidance."
+  },
+  {
+    "input": "intent: placement_support | entity: datascience",
+    "output": "You’ll be connected to hiring companies and job drives."
+  },
+  {
+    "input": "intent: placement_support | entity: datascience",
+    "output": "Internships and real-world project experience are part of the curriculum."
+  },
+  {
+    "input": "intent: placement_support | entity: datascience",
+    "output": "Career mentorship is available even after course completion."
+  },
+  {
+    "input": "intent: course_info | entity: django",
+    "output": "The Python Django course teaches both frontend and backend development using Python, HTML, CSS, JavaScript, and Django."
+  },
+  {
+    "input": "intent: course_info | entity: django",
+    "output": "You'll learn to build full-stack web applications with Django, PostgreSQL, and REST APIs."
+  },
+  {
+    "input": "intent: course_info | entity: django",
+    "output": "It’s ideal for beginners and intermediate learners interested in scalable web app development."
+  },
+  {
+    "input": "intent: course_info | entity: django",
+    "output": "You’ll gain practical experience through projects like user authentication systems and e-commerce apps."
+  },
+  {
+    "input": "intent: course_info | entity: django",
+    "output": "The course includes version control, deployment practices, and integration with third-party tools."
+  },
+  {
+    "input": "intent: admission_process | entity: django",
+    "output": "Register for the Django course by filling the form on the Luminar website."
+  },
+  {
+    "input": "intent: admission_process | entity: django",
+    "output": "Submit documents and make the payment to confirm your seat."
+  },
+  {
+    "input": "intent: admission_process | entity: django",
+    "output": "You'll receive onboarding instructions after successful admission."
+  },
+  {
+    "input": "intent: admission_process | entity: django",
+    "output": "Assistance is available throughout the registration process."
+  },
+  {
+    "input": "intent: admission_process | entity: django",
+    "output": "Course details and confirmation are sent via email after registration."
+  },
+  {
+    "input": "intent: batch_timing | entity: django",
+    "output": "Django classes are scheduled from 8am to 10am, Monday to Friday."
+  },
+  {
+    "input": "intent: batch_timing | entity: django",
+    "output": "You can select from 8am–10am, 1pm–3pm, or 6pm–8pm slots on weekdays or weekends."
+  },
+  {
+    "input": "intent: batch_timing | entity: django",
+    "output": "Live classes are conducted 3–4 times a week, and recordings are shared for flexibility."
+  },
+  {
+    "input": "intent: batch_timing | entity: django",
+    "output": "Evening and weekend options make it suitable for working professionals and students alike."
+  },
+  {
+    "input": "intent: batch_timing | entity: django",
+    "output": "Batch rescheduling is possible with prior approval, subject to availability."
+  },
+  {
+    "input": "intent: contact_info | entity: django",
+    "output": "Reach out via the contact form on Luminar's website for Django course inquiries."
+  },
+  {
+    "input": "intent: contact_info | entity: django",
+    "output": "Phone and email support are available on the official website."
+  },
+  {
+    "input": "intent: contact_info | entity: django",
+    "output": "You can also chat with the support team directly through the site."
+  },
+  {
+    "input": "intent: contact_info | entity: django",
+    "output": "Get timely responses for all Django course-related questions."
+  },
+  {
+    "input": "intent: contact_info | entity: django",
+    "output": "Support is active during working hours for prompt help."
+  },
+  {
+    "input": "intent: course_duration | entity: django",
+    "output": "The Django course duration is around 4 to 5 months."
+  },
+  {
+    "input": "intent: course_duration | entity: django",
+    "output": "It covers both basic and advanced web development modules."
+  },
+  {
+    "input": "intent: course_duration | entity: django",
+    "output": "You’ll complete real-world projects and assignments across multiple weeks."
+  },
+  {
+    "input": "intent: course_duration | entity: django",
+    "output": "The training includes 100+ hours of instructor-led sessions."
+  },
+  {
+    "input": "intent: course_duration | entity: django",
+    "output": "The timeline includes time for assessments, revision, and career support."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: django",
+    "output": "Fee details for the Django course are available by contacting Luminar directly or checking their website."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: django",
+    "output": "Installments and early-bird discounts may be available for the Django course."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: django",
+    "output": "The fee for the Django course includes access to live training, course materials, and career support."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: django",
+    "output": "Flexible payment options for the Django course can be arranged on request."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: django",
+    "output": "Reach out to check for scholarship eligibility or offers for the Django course."
+  },
+  {
+    "input": "intent: learning_mode | entity: django",
+    "output": "The Django course is offered in both online and offline modes."
+  },
+  {
+    "input": "intent: learning_mode | entity: django",
+    "output": "Choose live sessions, recorded content, or hybrid formats."
+  },
+  {
+    "input": "intent: learning_mode | entity: django",
+    "output": "All enrolled students get access to the learning portal."
+  },
+  {
+    "input": "intent: learning_mode | entity: django",
+    "output": "The course includes hands-on labs, code reviews, and mentor support."
+  },
+  {
+    "input": "intent: learning_mode | entity: django",
+    "output": "Interactive learning is provided via real-time Q&A and discussions."
+  },
+  {
+    "input": "intent: placement_support | entity: django",
+    "output": "You’ll receive 100% placement assistance after the Django course."
+  },
+  {
+    "input": "intent: placement_support | entity: django",
+    "output": "Career support includes resume writing, mock interviews, and job alerts."
+  },
+  {
+    "input": "intent: placement_support | entity: django",
+    "output": "Connect with hiring companies through Luminar’s placement network."
+  },
+  {
+    "input": "intent: placement_support | entity: django",
+    "output": "Internship opportunities are available for top-performing learners."
+  },
+  {
+    "input": "intent: placement_support | entity: django",
+    "output": "Support continues until you're successfully placed in a tech role."
+  },
+  {
+    "input": "intent: course_info | entity: java",
+    "output": "The Java Spring Full Stack Development course covers Java fundamentals, OOP concepts, advanced Java, database programming, and enterprise-level development."
+  },
+  {
+    "input": "intent: course_info | entity: java",
+    "output": "You'll learn core Java, JDBC, JDK new features, Java EE, JPA, Hibernate, Spring, and Spring Boot."
+  },
+  {
+    "input": "intent: course_info | entity: java",
+    "output": "This course is designed for freshers and early career professionals aiming to become full-stack developers."
+  },
+  {
+    "input": "intent: course_info | entity: java",
+    "output": "It includes 100+ hours of expert video content, hands-on learning, and real-time projects."
+  },
+  {
+    "input": "intent: course_info | entity: java",
+    "output": "The program offers lifetime access to course materials and a supportive community."
+  },
+  {
+    "input": "intent: admission_process | entity: java",
+    "output": "You can enroll in the Java course through Luminar Technolab's website by filling out the registration form."
+  },
+  {
+    "input": "intent: admission_process | entity: java",
+    "output": "To join the Java Full Stack program, complete the application and submit necessary documents."
+  },
+  {
+    "input": "intent: admission_process | entity: java",
+    "output": "Admission is confirmed once you finish the payment and document submission process."
+  },
+  {
+    "input": "intent: admission_process | entity: java",
+    "output": "Register online, and the admissions team will assist you step-by-step."
+  },
+  {
+    "input": "intent: admission_process | entity: java",
+    "output": "You'll receive a welcome email with next steps after your Java course admission is confirmed."
+  },
+  {
+    "input": "intent: batch_timing | entity: java",
+    "output": "Java Full Stack classes are available in 10am–12pm, 2pm–4pm, and 6pm–8pm slots."
+  },
+  {
+    "input": "intent: batch_timing | entity: java",
+    "output": "Both weekday and weekend batches are available, catering to all schedules."
+  },
+  {
+    "input": "intent: batch_timing | entity: java",
+    "output": "Live Java sessions are held three times a week with full access to recordings."
+  },
+  {
+    "input": "intent: batch_timing | entity: java",
+    "output": "You may select morning, afternoon, or evening batches as per your convenience."
+  },
+  {
+    "input": "intent: batch_timing | entity: java",
+    "output": "Batch switching is allowed with prior notice and is subject to seat availability."
+  },
+  {
+    "input": "intent: contact_info | entity: java",
+    "output": "Reach out to Luminar Technolab at support@example.com for any Java Full Stack course queries."
+  },
+  {
+    "input": "intent: contact_info | entity: java",
+    "output": "Call +91-9876543210 to speak with a course advisor about the Java program."
+  },
+  {
+    "input": "intent: contact_info | entity: java",
+    "output": "Visit the Contact Us page on the Luminar Technolab website for more details or to chat with the team."
+  },
+  {
+    "input": "intent: contact_info | entity: java",
+    "output": "The support team is available to assist you with all Java course-related questions via email or phone."
+  },
+  {
+    "input": "intent: contact_info | entity: java",
+    "output": "For any inquiries about the Java Full Stack course, connect with the admissions team through chat or email."
+  },
+  {
+    "input": "intent: course_duration | entity: java",
+    "output": "The Java Full Stack course spans 4 months, comprising 8 comprehensive modules."
+  },
+  {
+    "input": "intent: course_duration | entity: java",
+    "output": "It's a 4-month intensive training program covering end-to-end development skills."
+  },
+  {
+    "input": "intent: course_duration | entity: java",
+    "output": "Expect over 100 hours of focused learning throughout the Java Full Stack course."
+  },
+  {
+    "input": "intent: course_duration | entity: java",
+    "output": "You'll work on live projects and tasks over the 4-month duration."
+  },
+  {
+    "input": "intent: course_duration | entity: java",
+    "output": "The course duration includes module-wise tests and project submissions."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: java",
+    "output": "The Java Full Stack course fee is ₹37,500, including all resources and certifications."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: java",
+    "output": "Installment payment options are available for the Java Full Stack course fee."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: java",
+    "output": "We offer flexible pricing and scholarships for eligible Java Full Stack course applicants."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: java",
+    "output": "The Java Full Stack course fee includes live training, materials, project access, and placement support."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: java",
+    "output": "Early bird discounts may be available for the Java Full Stack course."
+  },
+  {
+    "input": "intent: learning_mode | entity: java",
+    "output": "The Java Full Stack course is available in both online and offline modes."
+  },
+  {
+    "input": "intent: learning_mode | entity: java",
+    "output": "Join live instructor-led sessions or learn through recorded lectures at your pace."
+  },
+  {
+    "input": "intent: learning_mode | entity: java",
+    "output": "You can choose between fully online or hybrid training formats."
+  },
+  {
+    "input": "intent: learning_mode | entity: java",
+    "output": "All course materials and coding exercises are accessible through our LMS portal."
+  },
+  {
+    "input": "intent: learning_mode | entity: java",
+    "output": "The Java course offers real-time interaction and mentorship via online platforms."
+  },
+  {
+    "input": "intent: placement_support | entity: java",
+    "output": "We provide 100% placement assistance after completing the Java Full Stack course."
+  },
+  {
+    "input": "intent: placement_support | entity: java",
+    "output": "Our team helps with resume preparation, mock interviews, and job referrals."
+  },
+  {
+    "input": "intent: placement_support | entity: java",
+    "output": "Java course graduates get access to exclusive hiring drives and company connections."
+  },
+  {
+    "input": "intent: placement_support | entity: java",
+    "output": "Internship opportunities and career guidance are part of the placement package."
+  },
+  {
+    "input": "intent: placement_support | entity: java",
+    "output": "Career support is included to ensure learners transition smoothly into tech roles."
+  },
+  {
+    "input": "intent: course_info | entity: mean",
+    "output": "The MEA(R)N Stack course covers HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React.js, Node.js, Express.js, and MongoDB."
+  },
+  {
+    "input": "intent: course_info | entity: mean",
+    "output": "It’s designed for aspiring full-stack developers aiming to build dynamic web apps with modern technologies."
+  },
+  {
+    "input": "intent: course_info | entity: mean",
+    "output": "You'll gain experience in both frontend and backend development with popular JavaScript frameworks."
+  },
+  {
+    "input": "intent: course_info | entity: mean",
+    "output": "The course includes real-time projects, version control with Git, and API integration."
+  },
+  {
+    "input": "intent: course_info | entity: mean",
+    "output": "By the end, you’ll be capable of building scalable full-stack web applications from scratch."
+  },
+  {
+    "input": "intent: admission_process | entity: mean",
+    "output": "Enroll in the MEA(R)N Stack course by submitting the form on the Luminar Technolab website."
+  },
+  {
+    "input": "intent: admission_process | entity: mean",
+    "output": "Complete the application and upload the required documents to secure your seat."
+  },
+  {
+    "input": "intent: admission_process | entity: mean",
+    "output": "Admissions are confirmed post verification and successful payment."
+  },
+  {
+    "input": "intent: admission_process | entity: mean",
+    "output": "Get guidance from the admissions team after registering online."
+  },
+  {
+    "input": "intent: admission_process | entity: mean",
+    "output": "You’ll receive onboarding instructions after admission confirmation."
+  },
+  {
+    "input": "intent: batch_timing | entity: mean",
+    "output": "MEAN Stack classes are available in 9am–11am, 1pm–3pm, and 7pm–9pm time slots."
+  },
+  {
+    "input": "intent: batch_timing | entity: mean",
+    "output": "You can join weekday or weekend batches depending on your availability."
+  },
+  {
+    "input": "intent: batch_timing | entity: mean",
+    "output": "Flexible scheduling supports students and working professionals alike."
+  },
+  {
+    "input": "intent: batch_timing | entity: mean",
+    "output": "Live sessions are conducted multiple times a week, and recordings are always available."
+  },
+  {
+    "input": "intent: batch_timing | entity: mean",
+    "output": "Need a different timing? You can request a batch shift in advance."
+  },
+  {
+    "input": "intent: contact_info | entity: mean",
+    "output": "For course details, email support@example.com or visit the Contact Us page."
+  },
+  {
+    "input": "intent: contact_info | entity: mean",
+    "output": "Call the provided helpline on the Luminar Technolab website for quick assistance."
+  },
+  {
+    "input": "intent: contact_info | entity: mean",
+    "output": "Get real-time answers via the site chat or callback request form."
+  },
+  {
+    "input": "intent: contact_info | entity: mean",
+    "output": "You can also follow them on social platforms to reach out."
+  },
+  {
+    "input": "intent: contact_info | entity: mean",
+    "output": "The support team is responsive throughout business hours for course queries."
+  },
+  {
+    "input": "intent: course_duration | entity: mean",
+    "output": "The MEA(R)N Stack course duration is 6 months across 6 modules."
+  },
+  {
+    "input": "intent: course_duration | entity: mean",
+    "output": "It’s a detailed half-year training covering all aspects of full-stack web development."
+  },
+  {
+    "input": "intent: course_duration | entity: mean",
+    "output": "Expect 100+ hours of guided training including projects and coding labs."
+  },
+  {
+    "input": "intent: course_duration | entity: mean",
+    "output": "This 6-month program is ideal for mastering both frontend and backend skills."
+  },
+  {
+    "input": "intent: course_duration | entity: mean",
+    "output": "Duration includes live sessions, assessments, and capstone project delivery."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: mean",
+    "output": "For the latest fee structure, visit the Luminar Technolab MEAN course page or contact support. The fee is ₹40,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: mean",
+    "output": "Fee details for the MEAN course vary depending on installment plans and offers. The fee is ₹40,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: mean",
+    "output": "You can pay in parts or opt for early-bird discounts if available. The fee for the MEAN course is ₹40,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: mean",
+    "output": "All learning materials and placement support are included in the fee for the MEAN course. The fee is ₹40,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: mean",
+    "output": "Get in touch for special pricing or scholarship eligibility for the MEAN course. The fee is ₹40,000."
+  },
+  {
+    "input": "intent: learning_mode | entity: mean",
+    "output": "MEA(R)N Stack course is available in online and offline classroom formats."
+  },
+  {
+    "input": "intent: learning_mode | entity: mean",
+    "output": "Attend live instructor-led sessions or review recorded content at your pace."
+  },
+  {
+    "input": "intent: learning_mode | entity: mean",
+    "output": "Choose learning mode as per your convenience—self-paced or scheduled."
+  },
+  {
+    "input": "intent: learning_mode | entity: mean",
+    "output": "Access course content through a learning portal post enrollment."
+  },
+  {
+    "input": "intent: learning_mode | entity: mean",
+    "output": "Online learners receive mentorship and project reviews like offline students."
+  },
+  {
+    "input": "intent: placement_support | entity: mean",
+    "output": "100% placement assistance is offered after course completion."
+  },
+  {
+    "input": "intent: placement_support | entity: mean",
+    "output": "You’ll receive help with interview prep, resume building, and portfolio review."
+  },
+  {
+    "input": "intent: placement_support | entity: mean",
+    "output": "Get access to exclusive job drives and company referrals."
+  },
+  {
+    "input": "intent: placement_support | entity: mean",
+    "output": "Support extends to internship guidance and post-course career planning."
+  },
+  {
+    "input": "intent: placement_support | entity: mean",
+    "output": "The placement cell actively connects learners with hiring partners."
+  },
+  {
+    "input": "intent: course_info | entity: flutter",
+    "output": "The Flutter course focuses on mobile app development using Dart and the Flutter framework."
+  },
+  {
+    "input": "intent: course_info | entity: flutter",
+    "output": "You’ll learn how to create cross-platform apps for Android and iOS using a single codebase."
+  },
+  {
+    "input": "intent: course_info | entity: flutter",
+    "output": "The course covers UI design, state management, API integration, and Firebase."
+  },
+  {
+    "input": "intent: course_info | entity: flutter",
+    "output": "It’s beginner-friendly and includes real-world app development projects."
+  },
+  {
+    "input": "intent: course_info | entity: flutter",
+    "output": "Flutter’s fast development and hot reload make it ideal for building dynamic UIs efficiently."
+  },
+  {
+    "input": "intent: admission_process | entity: flutter",
+    "output": "To enroll in the Flutter course, submit your details through the Luminar Technolab website."
+  },
+  {
+    "input": "intent: admission_process | entity: flutter",
+    "output": "Complete the application and make payment to confirm your seat."
+  },
+  {
+    "input": "intent: admission_process | entity: flutter",
+    "output": "The admissions team will guide you through onboarding after registration."
+  },
+  {
+    "input": "intent: admission_process | entity: flutter",
+    "output": "You’ll receive confirmation via email with further steps post admission."
+  },
+  {
+    "input": "intent: admission_process | entity: flutter",
+    "output": "Course access begins after successful document submission and fee payment."
+  },
+  {
+    "input": "intent: batch_timing | entity: flutter",
+    "output": "Flutter training is offered in time slots like 10am–12pm, 2pm–4pm, and 6pm–8pm."
+  },
+  {
+    "input": "intent: batch_timing | entity: flutter",
+    "output": "Weekday and weekend batches are available for maximum convenience."
+  },
+  {
+    "input": "intent: batch_timing | entity: flutter",
+    "output": "Sessions are designed to suit both students and working professionals."
+  },
+  {
+    "input": "intent: batch_timing | entity: flutter",
+    "output": "Missed a class? Don’t worry — session recordings are provided."
+  },
+  {
+    "input": "intent: batch_timing | entity: flutter",
+    "output": "Batch shifts or timing adjustments can be requested in advance."
+  },
+  {
+    "input": "intent: contact_info | entity: flutter",
+    "output": "Contact Luminar Technolab via the support section on their website."
+  },
+  {
+    "input": "intent: contact_info | entity: flutter",
+    "output": "Call or email their team using the details on the course page."
+  },
+  {
+    "input": "intent: contact_info | entity: flutter",
+    "output": "Chat support is available on the website for quick queries."
+  },
+  {
+    "input": "intent: contact_info | entity: flutter",
+    "output": "For any Flutter course inquiries, reach out through their contact form."
+  },
+  {
+    "input": "intent: contact_info | entity: flutter",
+    "output": "You’ll get timely assistance for all course-related questions."
+  },
+  {
+    "input": "intent: course_duration | entity: flutter",
+    "output": "The Flutter course runs for approximately 2 to 3 months."
+  },
+  {
+    "input": "intent: course_duration | entity: flutter",
+    "output": "It includes extensive hands-on training with real-time projects."
+  },
+  {
+    "input": "intent: course_duration | entity: flutter",
+    "output": "Expect over 80 hours of guided instruction and practice."
+  },
+  {
+    "input": "intent: course_duration | entity: flutter",
+    "output": "Course duration may vary slightly depending on the batch and schedule."
+  },
+  {
+    "input": "intent: course_duration | entity: flutter",
+    "output": "The program is structured to make learners job-ready in a short period."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: flutter",
+    "output": "For fee details, check the Flutter course page or contact the team directly. The fee is ₹30,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: flutter",
+    "output": "The fee for the Flutter course is ₹30,000 and includes training, materials, and placement support."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: flutter",
+    "output": "EMI options and special offers may be available for the Flutter course. The fee is ₹30,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: flutter",
+    "output": "Contact support for any applicable discounts or scholarships for the Flutter course. The fee is ₹30,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: flutter",
+    "output": "Fees for the Flutter course vary based on timing and mode of training (online/offline). The fee is ₹30,000."
+  },
+  {
+    "input": "intent: learning_mode | entity: flutter",
+    "output": "The Flutter course is offered in both online and offline modes."
+  },
+  {
+    "input": "intent: learning_mode | entity: flutter",
+    "output": "You can attend instructor-led classes live or watch recordings later."
+  },
+  {
+    "input": "intent: learning_mode | entity: flutter",
+    "output": "Self-paced and hybrid options are available for maximum flexibility."
+  },
+  {
+    "input": "intent: learning_mode | entity: flutter",
+    "output": "All course materials are accessible through the LMS platform."
+  },
+  {
+    "input": "intent: learning_mode | entity: flutter",
+    "output": "Live sessions provide real-time feedback and interaction."
+  },
+  {
+    "input": "intent: placement_support | entity: flutter",
+    "output": "100% placement assistance is provided after the course."
+  },
+  {
+    "input": "intent: placement_support | entity: flutter",
+    "output": "Get help with resume building, mock interviews, and portfolio reviews."
+  },
+  {
+    "input": "intent: placement_support | entity: flutter",
+    "output": "Luminar connects learners with hiring partners and job drives."
+  },
+  {
+    "input": "intent: placement_support | entity: flutter",
+    "output": "Internship guidance is also part of the career support package."
+  },
+  {
+    "input": "intent: placement_support | entity: flutter",
+    "output": "Career mentorship is available throughout and after course completion."
+  },
+  {
+    "input": "intent: course_info | entity: aspnet",
+    "output": "The ASP.NET Full Stack course focuses on web development using Microsoft technologies including C#, .NET, and SQL Server."
+  },
+  {
+    "input": "intent: course_info | entity: aspnet",
+    "output": "You’ll learn front-end tools like HTML, CSS, JavaScript along with backend skills in ASP.NET MVC and Web API."
+  },
+  {
+    "input": "intent: course_info | entity: aspnet",
+    "output": "The course is suitable for students and professionals aiming for roles in enterprise application development."
+  },
+  {
+    "input": "intent: course_info | entity: aspnet",
+    "output": "Training includes project development, CRUD operations, and database connectivity with real-time use cases."
+  },
+  {
+    "input": "intent: course_info | entity: aspnet",
+    "output": "You will also gain exposure to Visual Studio, Entity Framework, and modern .NET-based architecture."
+  },
+  {
+    "input": "intent: admission_process | entity: aspnet",
+    "output": "Apply for the ASP.NET course by filling the form on Luminar’s website."
+  },
+  {
+    "input": "intent: admission_process | entity: aspnet",
+    "output": "Complete the admission by submitting required documents and making the payment."
+  },
+  {
+    "input": "intent: admission_process | entity: aspnet",
+    "output": "You’ll be guided by the admissions team post-registration."
+  },
+  {
+    "input": "intent: admission_process | entity: aspnet",
+    "output": "Admission confirmation will be sent via email after successful enrollment."
+  },
+  {
+    "input": "intent: admission_process | entity: aspnet",
+    "output": "Support is available to help you through the onboarding process."
+  },
+  {
+    "input": "intent: batch_timing | entity: aspnet",
+    "output": "ASP.NET training batches are available on both weekdays and weekends."
+  },
+  {
+    "input": "intent: batch_timing | entity: aspnet",
+    "output": "Popular time slots include 9am–11am, 1pm–3pm, and 7pm–9pm to suit various schedules."
+  },
+  {
+    "input": "intent: batch_timing | entity: aspnet",
+    "output": "We offer flexible batch timings to accommodate students and working professionals."
+  },
+  {
+    "input": "intent: batch_timing | entity: aspnet",
+    "output": "Session recordings are provided for any missed classes."
+  },
+  {
+    "input": "intent: batch_timing | entity: aspnet",
+    "output": "You can request a batch switch in advance, based on seat availability."
+  },
+  {
+    "input": "intent: contact_info | entity: aspnet",
+    "output": "For details, contact Luminar Technolab via their website’s contact section."
+  },
+  {
+    "input": "intent: contact_info | entity: aspnet",
+    "output": "Support is available via phone and email listed on the official site."
+  },
+  {
+    "input": "intent: contact_info | entity: aspnet",
+    "output": "You can also chat with a representative through the website widget."
+  },
+  {
+    "input": "intent: contact_info | entity: aspnet",
+    "output": "Reach out during working hours for prompt assistance."
+  },
+  {
+    "input": "intent: contact_info | entity: aspnet",
+    "output": "You’ll get all ASP.NET course information by speaking with their advisors."
+  },
+  {
+    "input": "intent: course_duration | entity: aspnet",
+    "output": "The ASP.NET course duration is approximately 4 months."
+  },
+  {
+    "input": "intent: course_duration | entity: aspnet",
+    "output": "Training includes multiple modules covering front-end, backend, and database integration."
+  },
+  {
+    "input": "intent: course_duration | entity: aspnet",
+    "output": "You’ll spend over 100 hours in live instruction and practical development."
+  },
+  {
+    "input": "intent: course_duration | entity: aspnet",
+    "output": "Course duration includes assignments and a capstone project."
+  },
+  {
+    "input": "intent: course_duration | entity: aspnet",
+    "output": "This is a mid-term course designed to make you job-ready."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: aspnet",
+    "output": "Course fee details for the ASP.NET course are available on Luminar’s course page or via contact. The fee is ₹40,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: aspnet",
+    "output": "Installment plans may be available for ease of payment for the ASP.NET course. The fee is ₹40,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: aspnet",
+    "output": "The fee for the ASP.NET course is ₹40,000 and includes project access, materials, and placement assistance."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: aspnet",
+    "output": "Occasional discounts and scholarship opportunities may apply for the ASP.NET course. The fee is ₹40,000."
+  },
+  {
+    "input": "intent: fees_inquiry | entity: aspnet",
+    "output": "Reach out to the admissions team for the current fee structure for the ASP.NET course. The fee is ₹40,000."
+  },
+  {
+    "input": "intent: learning_mode | entity: aspnet",
+    "output": "The ASP.NET course is available in both offline and online formats."
+  },
+  {
+    "input": "intent: learning_mode | entity: aspnet",
+    "output": "Attend live classes or watch recorded content through their learning portal."
+  },
+  {
+    "input": "intent: learning_mode | entity: aspnet",
+    "output": "Choose between instructor-led and self-paced options."
+  },
+  {
+    "input": "intent: learning_mode | entity: aspnet",
+    "output": "The learning portal gives access to course resources post enrollment."
+  },
+  {
+    "input": "intent: learning_mode | entity: aspnet",
+    "output": "Interaction, mentorship, and feedback are provided in all learning modes."
+  },
+  {
+    "input": "intent: placement_support | entity: aspnet",
+    "output": "Placement support is provided after successful course completion."
+  },
+  {
+    "input": "intent: placement_support | entity: aspnet",
+    "output": "You’ll receive help with job applications, resume building, and mock interviews."
+  },
+  {
+    "input": "intent: placement_support | entity: aspnet",
+    "output": "The institute connects you with hiring companies through job fairs and referrals."
+  },
+  {
+    "input": "intent: placement_support | entity: aspnet",
+    "output": "Internship guidance and project experience are part of the program."
+  },
+  {
+    "input": "intent: placement_support | entity: aspnet",
+    "output": "Support continues even after the course until you're placed."
+  }
+]
