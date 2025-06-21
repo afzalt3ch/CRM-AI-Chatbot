@@ -85,9 +85,9 @@ def generate_response(user_input):
 
 
 def send_email_to_admin(name, contact, course=None):
-    sender_email = "achuash2004@gmail.com"       # Replace with your email
-    sender_password = "hine kmua moei djdn"       # Use App Password if using Gmail
-    receiver_email = "ashwintb007@gmail.com"  # Replace with admin's email
+    sender_email = "yourgmail@gmail.com"       # Replace with your email
+    sender_password = "*** **** **** ****"       # Use App Password if using Gmail
+    receiver_email = "yourgmail@gmail.com"  # Replace with admin's email
 
     subject = "New Chatbot User Details"
     body = f"Name: {name}\nContact: {contact}\nCourse Preference: {course if course else 'Not provided'}"
